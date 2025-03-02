@@ -2,7 +2,7 @@
 
 Submitted by: **Arunavo Chowdhury**
 
-This web app: **insert description**
+This web app: **A community board for games featuring the most popular games**
 
 Time spent: **4** hours spent in total
 
@@ -38,7 +38,7 @@ Trying to  fix the issue of the images covering the other details of the game ca
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Arunavo Chowdhury]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
