@@ -33,8 +33,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-Trying to  fix the issue of the images covering the other details of the game card.
+Trying to  fix the issue of the images covering the other details of the game card took a long time to figure out.
 
 ## License
 
