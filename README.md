@@ -1,1 +1,1 @@
-<img src='https://imgur.com/gallery/communityboard-gif-HBsfkp8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/n7S674y_d.webp?maxwidth=760&fidelity=grand' title='Video Walkthrough' width='' alt='Video Walkthrough' />
